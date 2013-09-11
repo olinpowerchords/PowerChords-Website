@@ -1,0 +1,106 @@
+{% extends "layout.html" %}
+{% block body %}
+    <div class="span8 content">
+        <h1>Repertoire</h1>
+        <br />
+        <div class="accordion" id="song_accordion">
+            <div class="accordion-group">
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#song_accordion" href="#collapseOne">
+                        Current Songs
+                    </a>        
+                </div>
+                <div id="collapseOne" class="accordion-body collapse in">
+                    <div class="accordion-inner">
+                        <h1 class="repertoire_table_header">
+                            {{semesters[0]["name"]}}
+                        </h1>
+                        <table class="table">
+                            <tr>
+                                <th>Song</th>
+                                <th>As Performed By</th>
+                                <th>Soloist</th>
+                                <th>Arrangement</th>
+                            </tr>
+                            {% for song in semesters[0]["songs"]%}
+                                <tr>
+                                    <td>{{song["name"]}}</td>
+                                    <td>{{song["apb"]}}</td>
+                                    <td>{{song["soloist"]}}</td>
+                                    <td>{{song["arr_by"]}}</td>
+                                </tr>
+                            {% endfor %}
+                        </table>
+                    </div>
+                </div>    
+            </div>
+            <div class="accordion-group">
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#song_accordion" href="#collapseTwo">
+                        Recent Songs
+                    </a> 
+                </div>
+                <div id="collapseTwo" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        {% for semester in semesters[1:5] %}
+                            <h1 class="repertoire_table_header">
+                                {{semester["name"]}}
+                            </h1>
+                            <table class="table">
+                                <tr>
+                                    <th>Song</th>
+                                    <th>As Performed By</th>
+                                    <th>Soloist</th>
+                                    <th>Arrangement</th>
+                                </tr>
+                                {% for song in semester["songs"] %}
+                                    <tr>
+                                        <td>{{song["name"]}}</td>
+                                        <td>{{song["apb"]}}</td>
+                                        <td>{{song["soloist"]}}</td>
+                                        <td>{{song["arr_by"]}}</td>
+                                    </tr>
+                                {% endfor %}
+                            </table>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-group">
+                <div class="accordion-heading">
+                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#song_accordion" href="#collapseThree">
+                        Archived Songs
+                    </a>
+                </div>
+                <div id="collapseThree" class="accordion-body collapse">
+                    <div class="accordion-inner">
+                        {% for semester in semesters[5:] %}
+                            <h1 class="repertoire_table_header">
+                                {{semester["name"]}}
+                            </h1>
+                            <table class="table">
+                                <tr>
+                                    <th>Song</th>
+                                    <th>As Performed By</th>
+                                    <th>Soloist</th>
+                                    <th>Arrangement</th>
+                                </tr>
+                                {% for song in semester["songs"] %}
+                                    <tr>
+                                        <td>{{song["name"]}}</td>
+                                        <td>{{song["apb"]}}</td>
+                                        <td>{{song["soloist"]}}</td>
+                                        <td>{{song["arr_by"]}}</td>
+                                    </tr>
+                                {% endfor %}
+                            </table>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>   
+        </div>
+    </div>
+
+    <div class="span2">
+    </div>
+{% endblock %}

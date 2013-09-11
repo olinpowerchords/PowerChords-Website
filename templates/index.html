@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+{% block body %}
+    <div class="span7 content bgimage">
+    	<h1>Welcome!</h1>
+    	<p>PowerChords, founded in 2007, hail from Olin College of Engineering in Needham, MA where they comprise five percent of the student body. With ALL members being engineering majors, PowerChords are inherently geeky... from their “flower chord” boutonnieres to signature arrangements like Baba Yetu (from Civ IV) and Dr. Horrible Medley.</p>
+	</div>
+    <div class="span3 news">
+        <h3>Recent News</h3>
+        <strong>{{ news_item['title'] }}</strong> - {{ news_item['date'] }}<br />
+        <p>
+            {{ news_item['body'] }}
+        </p>
+        <a href="{{ url_for('news') }}">More News</a>
+    </div>
+{% endblock %}

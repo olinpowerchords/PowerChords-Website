@@ -1,0 +1,26 @@
+[
+	{
+		"thumb": "geoff_thumb.jpg",
+		"name": "Geoff Pleiss",
+		"bio": "<p>An instrumentalist by trade, Geoff was brought to the Dark Side (by which he means a cappella) when he came to Olin. Originally a classically trained pianist, Geoff spent most of his years playing bass for jazz bands and his high-school orchestra. He had not done very much singing until he joined PowerChords his freshman year, but now he is thrilled to be singing all the time. Geoff is super enthusiastic about PowerChords, and is really excited that he has the opportunity to co-direct the group this year. When he is not singing, he enjoys playing guitar and bass, nerding out about advanced music theory, running, biking, adventuring, and being a snob about coffee.</p>",
+		"class_number": "2013",
+		"major": "E:C w/Math",
+		"hometown": "The Bay Areas"
+	}, 
+	{
+		"thumb": "kory_thumb.jpg",
+		"name": "Kory Kautz",
+		"bio": "<p>Kory is a big time music geek, taking as many music classes as he can and playing his four guitars far too much. When he's not playing guitar he's arranging music for Power Chords, and when he's not arranging music he's writing it (though not for Power Chords). He also somehow fits in school work, but that's less important. He spends his summers working in the forests of northern Minnesota, serving on the frontlines of the never ending war against the vegetative scourge of the earth known as trees.</p>",
+		"class_number": "2013",
+		"major": "MechE",
+		"hometown": "Eden Prairie, MN"
+	},
+	{
+		"thumb": "tom_thumb.jpg",
+		"name": "Tom Pandolfo",
+		"bio": "<p>When he isn't busy taking more credits than he should, Tom enjoys nothing more than making music – whether it's getting behind a piano and rocking out (most likely to Billy Joel), performing in a musical with FWOP or the Babson Players, or singing with his fellow PowerChords. He plays 4.5 instruments, practices lucid dreaming, and if you could get him to sit still long enough he would probably tell you that he enjoys parkour, programming in Python, and all things Italian.</p>",
+		"class_number": "2013",
+		"major": "Sys E",
+		"hometown": "Hampton Bays, Long Island"
+	}
+]

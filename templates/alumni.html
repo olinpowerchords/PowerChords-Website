@@ -1,0 +1,49 @@
+{% extends "layout.html" %}
+{% block body %}
+	<div class="span8 content">
+		<h1>Almuni</h1>
+
+		{% for alumnus in alumni %}
+			{% if (loop.index-1) is divisibleby 6 %}
+				<div class="row-fluid current_members-row">
+            {% endif %}
+
+            <div class="span2">
+                <a href="#modal-{{ loop.index }}" role="button" data-toggle="modal">
+                    <img src="{{url_for('static', filename='images/alumni/thumbs/' + alumnus['thumb'])}}" />
+                </a>
+            </div>
+
+            <div id="modal-{{ loop.index }}" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="modal-{{ loop.index }}-label" aria-hidden="true">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                    <h3 id="modal-{{ loop.index }}-label">{{alumnus["name"]}}, Class of {{alumnus["class_number"]}}</h3>
+                    <div id="modal-{{ loop.index }}-label">
+                        <div class="span6 text-left">
+                            {{alumnus["hometown"]}}
+                        </div>
+                        <div class="span6 text-right">
+                            {{alumnus["major"]}}
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-body">
+                    <div class="row-fluid">
+                        <div class="span8">
+                            <img src="{{url_for('static', filename='images/alumni/thumbs/' + alumnus['thumb'])}}" />
+                        </div>
+                        <div class="span4">
+                            {% autoescape false %}
+                                {{alumnus["bio"]}}
+                            {% endautoescape %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            {% if (loop.index) is divisibleby 6 %}
+                </div>
+            {% endif %}
+        {% endfor %}
+    </div>
+{% endblock %}

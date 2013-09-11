@@ -1,0 +1,30 @@
+[
+	{
+		"Position": "Music Director",
+		"Name": "Kyle McConnaughay"
+	},
+	{
+		"Position": "President",
+		"Name": "Ingrid Hagen-Keith"
+	},
+	{
+		"Position": "Assistant Music Director",
+		"Name": "Riva Kahn Hallock"
+	},
+	{
+	    "Position": "Treasurer/CD Manager",
+	    "Name": "Elliot Donlon"
+	},
+	{
+		"Position": "External Business Manager/Publicity",
+		"Name": "Janaki Perera"
+	},
+	{
+	    "Position": "Alumni Coordinator/Webmaster",
+	    "Name": "Mitchell Cieminski"
+	},
+	{
+		"Position":"Historian",
+		"Name":"Jennifer Anderson"
+	}
+]	
