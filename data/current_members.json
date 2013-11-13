@@ -1,6 +1,6 @@
 [
 	{
-		"thumb": "elliott_thumb.jpg",
+		"thumb": "elliott_donlon.jpg",
 		"name": "Elliot Donlon",
 		"bio": "<p>Hailing from the island nation of Hawaii, Elliott enjoys Boston and its cold weather. While engineering is a primary focus, singing comes in a close second and he is jumping up and down inside to be in PowerChords. When not singing, or messing with machines, he also enjoys Frisbee, glass-blowing, and the snow.</p>",
 		"class_number": "2014",
@@ -8,7 +8,7 @@
 		"hometown": "?, HI"
 	},
 	{
-		"thumb": "trevor_thumb.jpg",
+		"thumb": "trevor_hooton.jpg",
 		"name": "Trevor Hooton",
 		"bio": "<p>Trevor is an engineer, a singer, a lover, a fighter, a twin and a Canadian. His classily untrained tenor is happy to harmonize with all the superbly talented members of Power Chords (without whom he would have nobody to sing with but his rubber duck.)</p>",
 		"class_number": "2014",
@@ -16,7 +16,7 @@
 		"hometown": "Canada"
 	},
 	{
-		"thumb": "janaki_thumb.jpg",
+		"thumb": "janaki_perera.jpg",
 		"name": "Janaki Perera",
 		"bio": "<p>Janaki is a matsci major from the sunshine state and is super excited to be in Power Chords! While she has never sung for actual people before, she has played a few instruments. Janaki likes to spend her time dancing around, wearing footed pajamas, starting (and finishing!) crazy projects, baking, reading novels, and doing some engineering somewhere in there.</p>",
 		"class_number": "2014",
@@ -24,7 +24,7 @@
 		"hometown": "Jacksonville, FL"
 	},
 	{
-		"thumb": "kyle_thumb.jpg",
+		"thumb": "kyle_mcconnaughay.jpg",
 		"name": "Kyle McConnaughay",
 		"bio": "<p>Kyle enjoys singing – yes, it's mostly to himself, but he occasionally indulges in the odd Disney karaoke session. He never sang in an a cappella group prior to joining PowerChords and is excited about the opportunity! In addition to singing, Kyle likes to play French horn, piano, chess, soccer, and clown around with friends. He fits in learning about engineering, too, somewhere.</p>",
 		"class_number": "2015",
@@ -32,7 +32,7 @@
 		"hometown": "McLean, VA"
 	},
 	{
-		"thumb": "riva_thumb.jpg",
+		"thumb": "riva_kahn_hallock.jpg",
 		"name": "Riva Kahn Hallock",
 		"bio": "<p>Riva has enjoyed singing for as long as she can remember in musicals, in choir, and to herself. Besides driving her roommate and everyone else crazy with nonstop humming/singing, she also loves playing soccer, scuba diving, playing piano, being green, and trying new things.</p>",
 		"class_number": "2015",
@@ -48,7 +48,7 @@
 		"hometown": "Bellingham, WA"
 	},
 	{
-		"thumb": "ingrid_thumb.jpg",
+		"thumb": "ingrid_hagen-keith.jpg",
 		"name": "Ingrid Hagen-Keith",
 		"bio": "<p>Ingrid's is so excited to be a part of PowerChords that she is charged to sing! (Did you catch that?) She hails from the northern land of Montreal, Canada but has recently been relocated to Kailua, HI. Though never formally trained, Ingrid has been part of various singing groups including a Scottish a cappella group, choir in high school, and has performed various solos, including her senior year closing song. When not singing, Ingrid likes to eat fine foods (om nom nom), run, sew, and talk about not talking. She is ready to rock y'all!</p>",
 		"class_number": "2015",
@@ -56,20 +56,7 @@
 		"hometown": "Everywhere"
 	},
 	{
-		"name": "Jenny Vaccaro",
-		"bio": "<p>Jenny Vaccaro considers herself remarkably lucky to join PowerChords! She experienced a downright cathartic rendition of her local high school's Fiddler on the Roof in third grade, and the rest is history. By history, she really means a smorgasbord of school-affiliated choral groups and dramatic performances. Jenny's other interests include piano, soccer, poetry, and the use of unnecessarily long words in daily conversation.</p>",
-		"class_number": "2017",
-		"major": "Undeclared",
-		"hometown": "Who knows?"
-	},
-	{
-		"name": "Tatiana Anthony",
-		"bio": "<p>Tatiana has been involved with music on and off for most of her life, starting with playing violin, then beginning viola, and now singing.  She was exposed to acapella music at a young age, so she is absolutely thrilled that she's able to join the PowerChords.  Outside of music, she enjoys cooking, drawing, writing, and recreational and competitive mathematics.</p>",
-		"class_number": "2017",
-		"major": "Undeclared",
-		"hometown": "Who knows?"
-	},
-	{
+		"thumb": "myles_cooper.jpg",
 		"name": "Myles Cooper",
 		"bio": "<p>Myles’ extra-curricular interests bounce around more frequently than they probably should, but several of them stay consistent no matter what: singing, theater, and longboarding. His experience harmonizing with others is starting out limited, so he is stoked to take full advantage of his time in PowerChords to develop his skills in the midst of such talented people.</p>",
 		"class_number": "2016",
@@ -77,6 +64,7 @@
 		"hometown": "Who knows?"
 	},
 	{
+		"thumb": "alex_crease.jpg",
 		"name": "Alex Crease",
 		"bio": "<p>Alex has been playing a variety of instruments since he was 3, including the fiddle, the guitar, and at one point the trombone (except his arms were too short to reach the low notes). He hasn’t done much singing outside of the shower until joining PowerChords. He’s probably going to major in robotics engineering, because robots are just the coolest. Apart from music, Alex is extremely enthusiastic about robotics, bad puns, and lookin’ good. He will never skip a beat when it comes to terrible jokes or putting on a bow tie just for fun.</p>",
 		"class_number": "2016",
@@ -84,7 +72,7 @@
 		"hometown": "New York, New York"
 	},
 	{
-		"thumb": "mitch_thumb.jpg",
+		"thumb": "mitch_cieminski.jpg",
 		"name": "Mitch Cieminski",
 		"bio": "<p>Mitch is a Mysterious Engineer and he loves to sing. Hailing from Colorado, he is a fan of puzzles, classic rock, running, and baked goods. He is currently trying to learn everything in the Universe, a task that is surprisingly difficult but highly enjoyable.</p>",
 		"class_number": "2016",
@@ -92,11 +80,27 @@
 		"hometown": "Greeley, CO"
 	},
 	{
-		"thumb": "jennifer_thumb.jpg",
+		"thumb": "jennifer_anderson.jpg",
 		"name": "Jennifer Anderson",
 		"bio": "<p>Jennifer has been singing since 4th grade, but never in a choir as small as PowerChords; which makes it all the more exciting and interesting! She loves doing way too many things—so besides PowerChords, she is also interested in 90% of the clubs on campus. Somehow, she also manages to fit in drawing, reading, and collecting classy hats.</p>",
 		"class_number": "2016",
-		"major": "Undeclared",
+		"major": "Mechanical Engineering",
 		"hometown": "Louisville, CO"
+	},
+	{
+		"thumb": "jenny_vacarro.jpg",
+		"name": "Jenny Vaccaro",
+		"bio": "<p>Jenny Vaccaro considers herself remarkably lucky to join PowerChords! She experienced a downright cathartic rendition of her local high school's Fiddler on the Roof in third grade, and the rest is history. By history, she really means a smorgasbord of school-affiliated choral groups and dramatic performances. Jenny's other interests include piano, soccer, poetry, and the use of unnecessarily long words in daily conversation.</p>",
+		"class_number": "2017",
+		"major": "Undeclared",
+		"hometown": "Who knows?"
+	},
+	{
+		"thumb": "tatiana_anthony.jpg",
+		"name": "Tatiana Anthony",
+		"bio": "<p>Tatiana has been involved with music on and off for most of her life, starting with playing violin, then beginning viola, and now singing.  She was exposed to acapella music at a young age, so she is absolutely thrilled that she's able to join the PowerChords.  Outside of music, she enjoys cooking, drawing, writing, and recreational and competitive mathematics.</p>",
+		"class_number": "2017",
+		"major": "Undeclared",
+		"hometown": "Who knows?"
 	}
 ]
