@@ -1,6 +1,41 @@
-[ 
+[
 	{
-		"name":"Fall 2013",
+		"name": "Spring 2014",
+		"songs": [
+			{
+				"name": "Cold War",
+				"apb": "Janelle Monae",
+				"soloist": "Riva Kahn Hallock",
+				"arr_by": "Riva Kahn Hallock"
+			},
+			{
+				"name": "Haunted",
+				"apb":"Beyonce",
+				"soloist":"Mitch Cieminski",
+				"arr_by":"Mitch Cieminski"
+			},
+			{
+				"name": "Rescue Me",
+				"apb": "Kerrie Roberts",
+				"soloist": "Jennifer Anderson",
+				"arr_by": "Jennifer Anderson"
+			},
+			{
+				"name": "That's Life",
+				"apb": "Frank Sinatra",
+				"soloist": "Jenny Vaccaro",
+				"arr_by": "Kyle McConnaughay"
+			},
+			{
+				"name": "The Geeks Will Inherit the Earth",
+				"apb": "Imagine Dragons",
+				"soloist": "Alex Crease",
+				"arr_by": "Alex Crease"
+			}
+		]
+	}, 
+	{
+		"name": "Fall 2013",
 		"songs": [
 			{
 				"name":"Build That Wall",
