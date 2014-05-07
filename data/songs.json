@@ -44,6 +44,12 @@
 				"arr_by":"Riva Kahn Hallock"
 			},
 			{
+				"name":"Counting Stars",
+				"apb":"OneRepublic",
+				"soloist":"Myles Cooper, Mitchell Cieminski, and Jennifer Anderson",
+				"arr_by":"Geoff Pliess"
+			},
+			{
 				"name":"Sweeter",
 				"apb":"Gavin Degraw",
 				"soloist":"Janaki Perera",
@@ -57,11 +63,11 @@
 				"arr_by":"Trevor Hooton"
 			},
 			{
-				"name":"Counting Stars",
-				"apb":"OneRepublic",
-				"soloist":"Myles Cooper, Mitchell Cieminski, and Jennifer Anderson",
-				"arr_by":"Geoff Pliess"
-			}
+				"name":"Young and Beautiful",
+				"apb":"Lana del Rey",
+				"soloist":"Ingrid Hagen-Keith",
+				"arr_by":"Kyle McConnaughay"
+			}			
 		]
 	},
 	{
@@ -83,7 +89,7 @@
 				"name":"John Williams is the Man", 
 				"apb":"Moosebutter", 
 				"soloist":"N/A", 
-				"arr_by":"TBD"
+				"arr_by":"Moosebutter"
 			},
 			{
 				"name":"Once Upon a Time in New York City", 
@@ -94,7 +100,7 @@
 			{
 				"name":"Without You/With or Without You mash-up", 
 				"apb":"David Guetta & U2", 
-				"soloist":"TBD", 
+				"soloist":"Group", 
 				"arr_by":"Geoff Pleiss"
 			},
 			{
