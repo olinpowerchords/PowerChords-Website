@@ -55,17 +55,21 @@ WSGI_APPLICATION = 'website.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/1.6/ref/settings/#databases
-
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'powerchords_website',
-        'USER': 'olinpowerchords',
-        'PASSWORD': 'password',
-        'HOST': 'localhost',
-        'PORT': '',
-    }
+import dj_database_url
+heroku_config = dj_database_url.config()
+local_config = {
+    'ENGINE': 'django.db.backends.postgresql_psycopg2',
+    'NAME': 'powerchords_website',
+    'USER': 'olinpowerchords',
+    'PASSWORD': 'password',
+    'HOST': 'localhost',
+    'PORT': '',
 }
+
+if heroku_config:
+    DATABASES = { 'default': heroku_config } 
+else:
+    DATABASES = { 'default': local_config }
 
 # Internationalization
 # https://docs.djangoproject.com/en/1.6/topics/i18n/
