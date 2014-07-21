@@ -1,4 +1,4 @@
-Django==1.6.5
+-e git://github.com/django/django.git#egg=Django
 dj-database-url==0.3.0
 dj-static==0.0.6
 django-toolbelt==0.0.1
