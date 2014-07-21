@@ -1,5 +1,5 @@
 """
-Django settings for powerchords_website project.
+Django settings for website project.
 
 For more information on this file, see
 https://docs.djangoproject.com/en/1.6/topics/settings/
@@ -17,7 +17,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 # See https://docs.djangoproject.com/en/1.6/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'a6zl$oc1f@j8an4(rxcq*7s2%cjp-e-+#*e30es^)-c22x1ef#'
+SECRET_KEY = 'ssy=k!t+dav_hy+v2j#+bb14rwx%qf26&g0@jk-o%2n+0zz03p'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -36,6 +36,7 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'repertoire',
 )
 
 MIDDLEWARE_CLASSES = (
@@ -47,9 +48,9 @@ MIDDLEWARE_CLASSES = (
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 )
 
-ROOT_URLCONF = 'powerchords_website.urls'
+ROOT_URLCONF = 'website.urls'
 
-WSGI_APPLICATION = 'powerchords_website.wsgi.application'
+WSGI_APPLICATION = 'website.wsgi.application'
 
 
 # Database
@@ -57,8 +58,12 @@ WSGI_APPLICATION = 'powerchords_website.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'powerchords_website',
+        'USER': 'olinpowerchords',
+        'PASSWORD': 'password',
+        'HOST': 'localhost',
+        'PORT': '',
     }
 }
 
@@ -67,7 +72,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'America/New_York'
 
 USE_I18N = True
 
@@ -80,21 +85,3 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.6/howto/static-files/
 
 STATIC_URL = '/static/'
-
-# Parse database configuration from $DATABASE_URL
-import dj_database_url
-DATABASES['default'] =  dj_database_url.config()
-
-# Honor the 'X-Forwarded-Proto' header for request.is_secure()
-SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
-
-# Allow all host headers
-ALLOWED_HOSTS = ['*']
-
-# Static asset configuration
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-STATIC_ROOT = 'staticfiles'
-
-STATICFILES_DIRS = (
-    os.path.join(BASE_DIR, 'static'),
-)
