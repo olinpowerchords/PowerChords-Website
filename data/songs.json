@@ -1,5 +1,46 @@
 [
 	{
+		"name": "Fall 2014",
+		"songs": [
+			{
+				"name": "Bring Me the Night",
+				"apb": "Sam Tsui and Kina Grannis",
+				"soloist": "TBD",
+				"arr_by": "Jessica Gottdank"
+			},
+			{
+				"name": "Gypsy",
+				"apb": "Lady Gaga",
+				"soloist": "Ingrid Hagen-Keith",
+				"arr_by": "Kyle McConnaughay"
+			},
+			{
+				"name": "Hurt",
+				"apb":"Nine Inch Nails/Johnny Cash",
+				"soloist":"Kyle McConnaughay",
+				"arr_by":"Geoff Pleiss"
+			},
+			{
+				"name": "I'm a Believer",
+				"apb": "Smashmouth",
+				"soloist": "Eric \"The Franz\" Schneider",
+				"arr_by": "Alex Crease"
+			},
+			{
+				"name": "Maybe I'm Amazed",
+				"apb": "Paul McCartney",
+				"soloist": "Riva Kahn Hallock",
+				"arr_by": "Riva Kahn Hallock"
+			},
+			{
+				"name": "No Light No Light",
+				"apb": "Florence and the Machine",
+				"soloist": "Group",
+				"arr_by": "Jenny Vaccaro"
+			}
+		]
+	},
+	{
 		"name": "Spring 2014",
 		"songs": [
 			{
@@ -28,7 +69,7 @@
 			},
 			{
 				"name": "The Geeks Will Inherit the Earth",
-				"apb": "Imagine Dragons",
+				"apb": "I Fight Dragons",
 				"soloist": "Alex Crease",
 				"arr_by": "Alex Crease"
 			}
