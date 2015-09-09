@@ -1,5 +1,47 @@
 [
 	{
+		"thumb": "kyle_mcconnaughay.jpg",
+		"name": "Kyle McConnaughay",
+		"bio": "<p>Kyle enjoys singing – yes, it's mostly to himself, but he occasionally indulges in the odd Disney karaoke session. He never sang in an a cappella group prior to joining PowerChords and is excited about the opportunity! In addition to singing, Kyle likes to play French horn, piano, chess, soccer, and clown around with friends. He fits in learning about engineering, too, somewhere.</p>",
+		"class_number": "2015",
+		"major": "E:C",
+		"hometown": "McLean, VA"
+	},
+	{
+		"thumb": "riva_kahn_hallock.jpg",
+		"name": "Riva Kahn Hallock",
+		"bio": "<p>Riva has enjoyed singing for as long as she can remember in musicals, in choir, and to herself. Besides driving her roommate and everyone else crazy with nonstop humming/singing, she also loves playing soccer, scuba diving, playing piano, being green, and trying new things.</p>",
+		"class_number": "2015",
+		"major": "MechE",
+		"hometown": "Oakland, CA"
+	},
+	{
+		"thumb": "eric_thumb.jpg",
+		"name": "Eric \"The Franz\" Schneider",
+		"bio": "<p>Eric has been singing more or less continuously since the beginning of high school, and is super excited to be able to keep singing at Olin. He also plays piano and listens to too many musicals. In addition to regular acapella excitement, he is extremely excited to be at Olin and do a bunch of awesome stuff, only some of which there will be time for. But hey, who really needs sleep?</p>",
+		"class_number": "2015",
+		"major": "Robo E",
+		"hometown": "Bellingham, WA"
+	},
+	{
+		"thumb": "ingrid_hagen-keith.jpg",
+		"name": "Ingrid Hagen-Keith",
+		"bio": "<p>Ingrid's is so excited to be a part of PowerChords that she is charged to sing! (Did you catch that?) She hails from the northern land of Montreal, Canada but has recently been relocated to Kailua, HI. Though never formally trained, Ingrid has been part of various singing groups including a Scottish a cappella group, choir in high school, and has performed various solos, including her senior year closing song. When not singing, Ingrid likes to eat fine foods (om nom nom), run, sew, and talk about not talking. She is ready to rock y'all!</p>",
+		"class_number": "2015",
+		"major": "MechE",
+		"hometown": "Everywhere"
+	},
+
+	{
+		"thumb": "mitch_cieminski.jpg",
+		"name": "Mitch Cieminski",
+		"bio": "<p>Mitch is a Mysterious Engineer and he loves to sing. Hailing from Colorado, he is a fan of puzzles, classic rock, running, and baked goods. He is currently trying to learn everything in the Universe, a task that is surprisingly difficult but highly enjoyable.</p>",
+		"class_number": "2016",
+		"major": "Electrical and Computer Engineering",
+		"hometown": "Greeley, CO"
+	},
+
+	{
 		"thumb": "myles_cooper.jpg",
 		"name": "Myles Cooper",
 		"bio": "<p>Myles’ extra-curricular interests bounce around more frequently than they probably should, but several of them stay consistent no matter what: singing, theater, and longboarding. His experience harmonizing with others is starting out limited, so he is stoked to take full advantage of his time in PowerChords to develop his skills in the midst of such talented people.</p>",
