@@ -1,5 +1,299 @@
 [
 	{
+	"name": "Spring 2018",
+	"songs": [
+		{
+			"name": "The General",
+			"apb": "Dispatch",
+			"soloist": "Toby Shapinsky",
+			"arr_by": "Kim Winter"
+		},
+		{
+			"name": "What You Don't Do",
+			"apb": "Lianne La Havas",
+			"soloist": "Gretchen Rice",
+			"arr_by": "Jenny Vaccaro"
+		},
+		{
+			"name": "Rise Up",
+			"apb": "Andra Day",
+			"soloist": "Gracey Wilson",
+			"arr_by": "Riva Kahn-Hallock"
+		},
+		{
+			"name": "Halo",
+			"apb": "Beyonce",
+			"soloist": "Colvin Chapman",
+			"arr_by": "Gretchen Rice and Linnea Laux"
+		},
+		{
+			"name": "Distance",
+			"apb": "Christina Perri ft. Jason Mraz",
+			"soloist": "Kim Winter and Tatiana Anthony",
+			"arr_by": "Gracey Wilson and Colvin Chapman"
+		},
+		{
+			"name": "Shelter",
+			"apb": "Porter Robinson, Madeon",
+			"soloist": "Group",
+			"arr_by": "Katie Butler"
+		}
+	]
+	},
+	{
+	"name": "Fall 2017",
+	"songs": [
+		{
+			"name": "Mighty Long Way",
+			"apb": "Brother Sun",
+			"soloist": "Michael Costello",
+			"arr_by": "Jenny Vaccaro"
+		},
+		{
+			"name": "What Do I Know",
+			"apb": "Ed Sheeran",
+			"soloist": "William Lu",
+			"arr_by": "Tatiana Anthony and Colvin Chapman"
+		},
+		{
+			"name": "Bacon",
+			"apb": "Nick Jonas",
+			"soloist": "Franton Lin",
+			"arr_by": "Linnea Laux"
+		},
+		{
+			"name": "Avila",
+			"apb": "The Wailin' Jennys",
+			"soloist": "Group",
+			"arr_by": "Riva Kahn-Hallock"
+		},
+		{
+			"name": "Why'd You Only Call Me When You're High",
+			"apb": "The Arctic Monkeys",
+			"soloist": "Katie Butler",
+			"arr_by": "Franton Lin"
+		},
+		{
+			"name": "Rollercoaster",
+			"apb": "Bleachers",
+			"soloist": "Braden Oh",
+			"arr_by": "Franton Lin and Daniel Daugherty"
+		},
+		{
+			"name": "I Get Around",
+			"apb": "The Beach Boys",
+			"soloist": "Juniors and Seniors",
+			"arr_by": "Kim Winter"
+		},
+		{
+			"name": "Sh-Boom",
+			"apb": "The Chords",
+			"soloist": "First-Years and Sophomores",
+			"arr_by": "Colvin Chapman and Braden Oh"
+		}
+	]
+	},
+
+	{
+		"name": "Spring 2017",
+		"songs": [
+			{
+				"name": "Tesselate",
+				"apb": "Alt-J",
+				"soloist": "Lauren Gulland",
+				"arr_by": "Franton Lin"
+			},
+			{
+				"name": "Come on Eileen",
+				"apb": "Dexys Midnight Runners",
+				"soloist": "Daniel Doherty",
+				"arr_by": "Katie Butler"
+			},
+			{
+				"name": "Fairytale",
+				"apb": "Sara Bareilles",
+				"soloist": "Katie Butler",
+				"arr_by": "Tatiana Anthony"
+			},
+			{
+				"name": "One Last Dance",
+				"apb": "Us the Duo",
+				"soloist": "Jenny Vaccaro and Ilya Bensacon",
+				"arr_by": "William Derksen"
+			},
+			{
+				"name": "Warm Foothills",
+				"apb": "Alt-J",
+				"soloist": "Tatiana Anthony, Michael Costello, Colvin Chapman",
+				"arr_by": "Linnea Laux and Jenny Vaccaro"
+			}
+		]
+	},
+	{
+		"name": "Fall 2016",
+		"songs": [
+			{
+				"name": "Where the Wind Blows",
+				"apb": "Coco O",
+				"soloist": "Jenny Vaccaro",
+				"arr_by": "Kim Winter and Jenny Vaccaro"
+			},
+			{
+				"name": "Cough Syrup",
+				"apb": "Young the Giant",
+				"soloist": "Tatiana Anthony",
+				"arr_by": "Riva Kahn-Hallock"
+			},
+			{
+				"name": "Scarecrow",
+				"apb": "Alex & Sierra",
+				"soloist": "Gracey Wilson and William Derksen",
+				"arr_by": "Celina Bekins"
+			},
+			{
+				"name": "Sandcastles",
+				"apb": "Beyonce",
+				"soloist": "Group",
+				"arr_by": "Jenny Vaccaro"
+			},
+			{
+				"name": "Land of Hope and Dreams",
+				"apb": "Bruce Springsteen",
+				"soloist": "Michael Costello",
+				"arr_by": "Linnea Laux and Alex Crease"
+			},
+			{
+				"name": "Mr. Sandman",
+				"apb": "The Chordettes",
+				"soloist": "Upper Voices",
+				"arr_by": "Jenny Vaccaro"
+			},
+			{
+				"name": "All I Have To Do Is Dream",
+				"apb": "The Everly Brothers",
+				"soloist": "Lower Voices",
+				"arr_by": "Franton Lin"
+			}
+		]
+	},
+	{
+		"name": "Spring 2016",
+		"songs": [
+			{
+				"name": "Fireflies",
+				"apb": "Owl City",
+				"soloist": "William Lu",
+				"arr_by": "Franton Lin"
+			},
+			{
+				"name": "Whirlwind",
+				"apb": "Dispatch",
+				"soloist": "Michael Costello",
+				"arr_by": "Linnea Laux and Jenny Vaccaro"
+			},
+			{
+				"name": "Dreamer",
+				"apb": "Elizaveta",
+				"soloist": "Celina Bekins",
+				"arr_by": "Riva Kahn-Hallock"
+			},
+			{
+				"name": "I Miss You",
+				"apb": "Adele",
+				"soloist": "Franton Lin",
+				"arr_by": "Jenny Vaccaro"
+			},
+			{
+				"name": "Our Own House",
+				"apb": "Misterwives",
+				"soloist": "TBD",
+				"arr_by": "TBD"
+			}
+		]
+	},
+	{
+		"name": "Fall 2015",
+		"songs": [
+			{
+				"name": "Are We All We Are?",
+				"apb": "P!nk",
+				"soloist": "Jennifer Anderson",
+				"arr_by": "Jenny Vaccaro and Jennifer Anderson"
+			},
+			{
+				"name": "Warpath",
+				"apb": "Florence and the Machine",
+				"soloist": "Celina Bekins",
+				"arr_by": "Riva Kahn-Hallock"
+			},
+			{
+				"name": "Immortals",
+				"apb": "Fall Out Boy",
+				"soloist": "Group",
+				"arr_by": "Alex Crease"
+			},
+			{
+				"name": "Rainy Season",
+				"apb": "Hunter Hayes",
+				"soloist": "Alex Crease",
+				"arr_by": "Kyle McConnaughay"
+			},
+			{
+				"name": "San Franciso",
+				"apb": "The Mowgli's",
+				"soloist": "Katie Butler",
+				"arr_by": "Franton Lin"
+			},
+			{
+				"name": "Wings",
+				"apb": "Little Mix",
+				"soloist": "All Female Voices",
+				"arr_by": "Tatiana Anthony"
+			},
+			{
+				"name": "Nine in the Afternoon",
+				"apb": "Panic! At the Disco",
+				"soloist": "All Male Voices",
+				"arr_by": "Michael Costello"
+			}
+		]
+	},
+	{
+		"name": "Spring 2015",
+		"songs": [
+			{
+				"name": "Such Great Heights",
+				"apb": "The Postal Service",
+				"soloist": "Michael Costello",
+				"arr_by": "Riva Kahn-Hallock"
+			},
+			{
+				"name": "Uptown Funk",
+				"apb": "Mark Ronson with Bruno Mars",
+				"soloist": "Celina Bekins and Franton Lin",
+				"arr_by": "Jenny Vaccaro"
+			},
+			{
+				"name": "I'm Not The Only Blank Space (Mashup)",
+				"apb":"Sam Smith/Taylor Swift",
+				"soloist":"Jenny Vaccaro",
+				"arr_by":"Tatiana Anthony"
+			},
+			{
+				"name": "Everything",
+				"apb": "Michael Bublé",
+				"soloist": "Alex Crease",
+				"arr_by": "Alex Crease"
+			},
+			{
+				"name": "Jump Rope",
+				"apb": "Blue October",
+				"soloist": "Tatiana Anthony",
+				"arr_by": "Franton Lin"
+			}
+		]
+	},
+	{
 		"name": "Fall 2014",
 		"songs": [
 			{
@@ -74,7 +368,7 @@
 				"arr_by": "Alex Crease"
 			}
 		]
-	}, 
+	},
 	{
 		"name": "Fall 2013",
 		"songs": [
@@ -108,89 +402,89 @@
 				"apb":"Lana del Rey",
 				"soloist":"Ingrid Hagen-Keith",
 				"arr_by":"Kyle McConnaughay"
-			}			
+			}
 		]
 	},
 	{
 		"name":"Spring 2013",
 		"songs": [
 			{
-				"name":"I Will Follow You into the Dark", 
-				"apb":"Death Cab for Cutie", 
-				"soloist":"Eric 'The Franz' Schneider", 
+				"name":"I Will Follow You into the Dark",
+				"apb":"Death Cab for Cutie",
+				"soloist":"Eric 'The Franz' Schneider",
 				"arr_by":"Jessie Rucker"
 			},
 			{
-				"name":"I Won't Give Up", 
-				"apb":"Jason Mraz", 
-				"soloist":"Riva Kahn Hallock", 
+				"name":"I Won't Give Up",
+				"apb":"Jason Mraz",
+				"soloist":"Riva Kahn Hallock",
 				"arr_by":"Riva Kahn Hallock"
 			},
 			{
-				"name":"John Williams is the Man", 
-				"apb":"Moosebutter", 
-				"soloist":"N/A", 
+				"name":"John Williams is the Man",
+				"apb":"Moosebutter",
+				"soloist":"N/A",
 				"arr_by":"Moosebutter"
 			},
 			{
-				"name":"Once Upon a Time in New York City", 
-				"apb":"Huey Lewis", 
-				"soloist":"Kyle McConnaughay", 
+				"name":"Once Upon a Time in New York City",
+				"apb":"Huey Lewis",
+				"soloist":"Kyle McConnaughay",
 				"arr_by":"Kyle McConnaughay"
 			},
 			{
-				"name":"Without You/With or Without You mash-up", 
-				"apb":"David Guetta & U2", 
-				"soloist":"Group", 
+				"name":"Without You/With or Without You mash-up",
+				"apb":"David Guetta & U2",
+				"soloist":"Group",
 				"arr_by":"Geoff Pleiss"
 			},
 			{
-				"name":"You're So Vain", 
-				"apb":"Carly Simon", 
-				"soloist":"Ingrid Hagen-Keith", 
+				"name":"You're So Vain",
+				"apb":"Carly Simon",
+				"soloist":"Ingrid Hagen-Keith",
 				"arr_by":"Ingrid Hagen-Keith"
 			}
 		]
 	},
-	{ 
-		"name":"Fall 2012", 
-		"songs": [ 
+	{
+		"name":"Fall 2012",
+		"songs": [
 			{
-				"name":"Everything You Want", 
-				"apb":"Vertical Horizon", 
-				"soloist":"Ingrid Hagen-Keith", 
+				"name":"Everything You Want",
+				"apb":"Vertical Horizon",
+				"soloist":"Ingrid Hagen-Keith",
 				"arr_by":"Power 'Rangers"
 			},
-			{ 
-				"name":"Feeling Good", 
-				"apb":"Michael Buble", 
-				"soloist":"Tom Pandolfo", 
-				"arr_by":"Tom Pandolfo"
-			}, 
 			{
-				"name":"Das Islander", 
-				"apb":"Nightwish", 
-				"soloist":"Kory Kautz", 
+				"name":"Feeling Good",
+				"apb":"Michael Buble",
+				"soloist":"Tom Pandolfo",
+				"arr_by":"Tom Pandolfo"
+			},
+			{
+				"name":"Das Islander",
+				"apb":"Nightwish",
+				"soloist":"Kory Kautz",
 				"arr_by":"Kory Kautz"
 			},
 			{
-				"name":"Make You Feel My Love", 
-				"apb":"Adele", 
-				"soloist":"Ingrid Hagen-Keith", 
+				"name":"Make You Feel My Love",
+				"apb":"Adele",
+				"soloist":"Ingrid Hagen-Keith",
 				"arr_by":"Kyle McConnaughay"
 			},
 			{
-				"name":"Somebody That I Used to Know", 
-				"apb":"Gotye", 
-				"soloist":"Geoff Pleiss", 
+				"name":"Somebody That I Used to Know",
+				"apb":"Gotye",
+				"soloist":"Geoff Pleiss",
 				"arr_by":"Geoff Pleiss"
 			},
 			{
-				"name":"Son of a Gun", 
-				"apb":"Oh Land", 
-				"soloist":"Riva Kahn Hallock", 
+				"name":"Son of a Gun",
+				"apb":"Oh Land",
+				"soloist":"Riva Kahn Hallock",
 				"arr_by":"Ingrid Hagen-Keith & Riva Kahn Hallock"
-			}			
+			}
 		]
 	},
 	{
@@ -303,7 +597,7 @@
 				"soloist":"Kimly Do",
 				"arr_by":"Kory Kautz"
 			}
-		]	
+		]
 	},
 	{
 		"name":"Spring 2011",
@@ -438,7 +732,7 @@
 				"soloist":"Jason Curtis, Rachel Fox",
 				"arr_by":"Kory Kautz"
 			},
-			{ 
+			{
 				"name":"The Stranger",
 				"apb":"Billy Joel",
 				"soloist":"many",

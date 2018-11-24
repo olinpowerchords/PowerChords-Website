@@ -1,34 +1,34 @@
 [
 	{
 		"Position": "Music Director",
-		"Name": "Kyle McConnaughay"
+		"Name": "Colvin Chapman"
 	},
 	{
 		"Position": "President",
-		"Name": "Ingrid Hagen-Keith"
+		"Name": "Gretchen Rice"
 	},
 	{
 		"Position": "Assistant Music Director",
-		"Name": "Jenny Vaccaro"
+		"Name": "Toby Shapinsky"
 	},
 	{
-	    "Position": "Treasurer/CD Manager",
-	    "Name": "Tatiana Anthony"
-	},
-	{
-		"Position": "External Business Manager",
-		"Name": "Alex Crease"
+	    	"Position": "Treasurers and CD Managers",
+	    	"Name": "Lauren Gulland and Gracey Wilson"
 	},
 	{
 		"Position": "Publicity",
-		"Name": "Riva Kahn Hallock"
+		"Name": "Katie Butler"
 	},
 	{
-	    "Position": "Webmaster",
-	    "Name": "Kyle McConnaughay"
+		"Position": "External Business Manager",
+		"Name": "Lauren Gulland"
 	},
 	{
-		"Position":"Historian and Alumni Coordinator",
-		"Name":"Jennifer Anderson"
+	    	"Position": "Webmasters",
+	    	"Name": "Michael Costello and Gracey Wilson"
+	},
+	{
+		"Position":"Historian & Alumni Coordinator",
+		"Name":"Kim Winter"
 	}
-]	
+]

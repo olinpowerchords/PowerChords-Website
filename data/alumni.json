@@ -1,5 +1,133 @@
 [
 	{
+		"thumb": "gracey_wilson.jpg",
+		"name": "Gracey Wilson",
+		"bio": "<p>Gracey, a native Californian who was transplanted to Florida a few years ago, has always loved to sing. However it's her first time singing in an a Capella group and she's loving it! Music is a big part of her life, but she also enjoys diverse discussion, laughing, and learning. She hopes to use her developing engineering skills to solve problems that elevate people's lives!</p>",
+		"class_number": "2020",
+		"major": "Engineering with Computing",
+		"hometown": "Bradenton, FL"
+	},
+	{
+		"thumb": "william_lu.jpg",
+		"name": "William Lu",
+		"bio": "<p>William has been playing piano and singing for most of his life and has even dared to try the violin. He apparently never looks tired, despite his desperate attempts to do more activities than there are hours in the week. Other than delighting people by breaking into song at every opportunity, William enjoys blue sky ideation, accessible design, and cobbling together electronics.</p>",
+		"class_number": "2018",
+		"major": "Electrical/Computer Engineering",
+		"hometown": "San Diego, CA"
+	},
+	{
+		"thumb": "franton_lin.jpg",
+		"name": "Franton Lin",
+		"bio": "<p>Franton has a love for a cappella that started all the way back in 6th grade. The portability and instancy of a cappella combined with its extremely tight-knit community has made it a staple in Franton's life. When not doing music, Franton thoroughly enjoys various hobbies, including digital photography, fiddling with circuits, baking pies, and road cycling. Overall, Franton believes in carpe diem, because there are too many fabulous adventures to experience and never enough time.</p>",
+		"class_number": "2018",
+		"major": "Electrical and Computer Engineering",
+		"hometown": "Mansfield Center, CT"
+	},
+	{
+		"thumb": "michael_costello.jpg",
+		"name": "Michael Costello",
+		"bio": "<p>Michael Costello has tried being a singer, athlete, guitarist, engineer, programmer, and community organizer, and can't decide which he likes best. He likes trying new things, and in his life has sang soprano, tenor, baritone, bass, and has also dabbled in vocal percussion. He can often be heard belting a tune while running through Needham or Wellesley. He loves making music with his talented, hard-working, and supportive PowerChords \"family\".</p>",
+		"class_number": "2018",
+		"major": "Mechanical Engineering?",
+		"hometown": "Newton, MA"
+	},
+	{
+		"thumb": "tatiana_anthony.jpg",
+		"name": "Tatiana Anthony",
+		"bio": "<p>Tatiana has been involved with music on and off for most of her life, starting with playing violin, then beginning viola, and now singing.  She was exposed to acapella music at a young age, so she is absolutely thrilled that she's able to join the PowerChords.  Outside of music, she enjoys cooking, drawing, writing, and recreational and competitive mathematics.</p>",
+		"class_number": "2017",
+		"major": "Mechanical Engineering",
+		"hometown": "Near Seattle, WA"
+	},
+	{
+		"thumb": "braden_oh.jpg",
+		"name": "Braden Oh",
+		"bio": "<p>Braden was a member of church and school choirs for 6 years before joining PowerChords and has been both a performer and a director.  He has performed in many diverse places including Venice, the Sistine Chapel, San Francisco, and Pasadena.   Hobbies include rocketry, magic, popping soap bubbles, howling at the moon, and online bio writing.</p>",
+		"class_number": "2021",
+		"major": "Undeclared",
+		"hometown": "Pasadena, California"
+	},
+	{
+		"thumb": "tommy_weir.jpg",
+		"name": "Tommy Weir",
+		"bio": "<p>Tommy has been in marching band, concert band, and orchestra during his high school career. He got dragged to a singing audition in his senior year, and discovered his love of singing and performing. Outside of coursework, Tommy plays ultimate frisbee, sings in the experimental vocal ensemble, and enjoys reading.</p>",
+		"class_number": "2021",
+		"major": "Mechanical Engineering",
+		"hometown": "Rome, NY"
+	},
+	{
+		"thumb": "william_derksen.jpg",
+		"name": "William \"Wilde\" Derksen",
+		"bio": "<p>William has played piano since the age of 4 very loosely.  He has a bit of stage fright but loves to sing!  He is also very into beatboxing and arranging.  William is probably going into Computer science but is also real interested in Electrical engineering.  For now he's just going with the flow and learning along the way.</p>",
+		"class_number": "2020",
+		"major": "Undeclared",
+		"hometown": "Somewhere, Michigan"
+	},
+	{
+		"thumb": "ilya_besancon.jpg",
+		"name": "Ilya Besancon",
+		"bio": "<p>Ilya is a remarkably silly individual who has an undying love and excitement for music. This means blasting Red Hot Chili Peppers on the highway, shredding to Nirvana on his Gibson SG electric guitar, and even peacefully grooving to Samba in his hammock. He's been playing guitar for 12 years, and writing songs for 3. To recently got to complete a longtime dream of recording and producing his first album, Too Many Places. </p>",
+		"class_number": "2020",
+		"major": "Undeclared",
+		"hometown": "Washington, D.C."
+	},
+	{
+		"thumb": "daniel_daugherty.jpg",
+		"name": "Daniel Daugherty",
+		"bio": "<p>Daniel grew up playing the piano, violin, saxophone, and bass clarinet in various concert bands.  A Capella group singing is new experience for him and he's super excited about it! Outside of music, Daniel enjoys playing basketball, shredding on the snowboard, and eating lots of food.</p>",
+		"class_number": "2019",
+		"major": "Undeclared",
+		"hometown": "Huntsville, AL"
+	},
+	{
+		"thumb": "celina_bekins.jpg",
+		"name": "Celina Bekins",
+		"bio": "<p>Celina is awesome! They're one of the Webmaster's best friends. However, they have been really too busy to write their own bio, so the Webmaster is writing it for them. Celina has done music and theatre all their life, and loves creating art with other people.</p>",
+		"class_number": "2018",
+		"major": "Human-Centered Software Design",
+		"hometown": "Maui County, HI"
+	},
+	{
+		"thumb": "jenny_vacarro.jpg",
+		"name": "Jenny Vaccaro",
+		"bio": "<p>Jenny Vaccaro considers herself remarkably lucky to join PowerChords! She experienced a downright cathartic rendition of her local high school's Fiddler on the Roof in third grade, and the rest is history. By history, she really means a smorgasbord of school-affiliated choral groups and dramatic performances. Jenny's other interests include piano, soccer, poetry, and the use of unnecessarily long words in daily conversation.</p>",
+		"class_number": "2017",
+		"major": "Electrical and Computer Engineering",
+		"hometown": "Reading, MA"
+	},
+	{
+		"thumb": "alex_crease.jpg",
+		"name": "Alex Crease",
+		"bio": "<p>Alex has been playing a variety of instruments since he was 3, including the fiddle, the guitar, and at one point the trombone (except his arms were too short to reach the low notes). He hasn’t done much singing outside of the shower until joining PowerChords. He’s probably going to major in robotics engineering, because robots are just the coolest. Apart from music, Alex is extremely enthusiastic about robotics, bad puns, and lookin’ good. He will never skip a beat when it comes to terrible jokes or putting on a bow tie just for fun.</p>",
+		"class_number": "2016",
+		"major": "Undeclared",
+		"hometown": "New York, New York"
+	},
+	{
+		"thumb": "jennifer_anderson.jpg",
+		"name": "Jennifer Anderson",
+		"bio": "<p>Jennifer has been singing since 4th grade, but never in a choir as small as PowerChords; which makes it all the more exciting and interesting! She loves doing way too many things—so besides PowerChords, she is also interested in 90% of the clubs on campus. Somehow, she also manages to fit in drawing, reading, and collecting classy hats.</p>",
+		"class_number": "2016",
+		"major": "Mechanical Engineering",
+		"hometown": "Louisville, CO"
+	},
+	{
+		"thumb": "bryan_werth.jpg",
+		"name": "Bryan Werth",
+		"bio": "<p>Bryan has been singing and playing instruments such as the saxophone and the banjo for years. Although he has never been sang a capella, he has been singing in choruses ever since he can remember. Outside of music, Bryan plays tennis, rides the unicycle, and jokes around. Although he is currently undeclared, he is most interested in pursuing a degree in electrical engineering.</p>",
+		"class_number": "2019",
+		"major": "Undeclared",
+		"hometown": "Bedford, MA"
+	},
+	{
+		"thumb": "eric_schneider.jpg",
+		"name": "Eric \"The Franz\" Schneider",
+		"bio": "<p>Eric has been singing more or less continuously since the beginning of high school, and is super excited to be able to keep singing at Olin. He also plays piano and listens to too many musicals. In addition to regular acapella excitement, he is extremely excited to be at Olin and do a bunch of awesome stuff, only some of which there will be time for. But hey, who really needs sleep?</p>",
+		"class_number": "2015",
+		"major": "Robotics Engineering",
+		"hometown": "Bellingham, WA"
+	},
+	{
 		"thumb": "kyle_mcconnaughay.jpg",
 		"name": "Kyle McConnaughay",
 		"bio": "<p>Kyle enjoys singing – yes, it's mostly to himself, but he occasionally indulges in the odd Disney karaoke session. He never sang in an a cappella group prior to joining PowerChords and is excited about the opportunity! In addition to singing, Kyle likes to play French horn, piano, chess, soccer, and clown around with friends. He fits in learning about engineering, too, somewhere.</p>",
@@ -16,14 +144,6 @@
 		"hometown": "Oakland, CA"
 	},
 	{
-		"thumb": "eric_thumb.jpg",
-		"name": "Eric \"The Franz\" Schneider",
-		"bio": "<p>Eric has been singing more or less continuously since the beginning of high school, and is super excited to be able to keep singing at Olin. He also plays piano and listens to too many musicals. In addition to regular acapella excitement, he is extremely excited to be at Olin and do a bunch of awesome stuff, only some of which there will be time for. But hey, who really needs sleep?</p>",
-		"class_number": "2015",
-		"major": "Robo E",
-		"hometown": "Bellingham, WA"
-	},
-	{
 		"thumb": "ingrid_hagen-keith.jpg",
 		"name": "Ingrid Hagen-Keith",
 		"bio": "<p>Ingrid's is so excited to be a part of PowerChords that she is charged to sing! (Did you catch that?) She hails from the northern land of Montreal, Canada but has recently been relocated to Kailua, HI. Though never formally trained, Ingrid has been part of various singing groups including a Scottish a cappella group, choir in high school, and has performed various solos, including her senior year closing song. When not singing, Ingrid likes to eat fine foods (om nom nom), run, sew, and talk about not talking. She is ready to rock y'all!</p>",
@@ -31,7 +151,6 @@
 		"major": "MechE",
 		"hometown": "Everywhere"
 	},
-
 	{
 		"thumb": "mitch_cieminski.jpg",
 		"name": "Mitch Cieminski",
@@ -40,7 +159,6 @@
 		"major": "Electrical and Computer Engineering",
 		"hometown": "Greeley, CO"
 	},
-
 	{
 		"thumb": "myles_cooper.jpg",
 		"name": "Myles Cooper",
@@ -80,7 +198,7 @@
 		"class_number": "2013",
 		"major": "E:C w/Math",
 		"hometown": "The Bay Areas"
-	}, 
+	},
 	{
 		"thumb": "kory_thumb.jpg",
 		"name": "Kory Kautz",

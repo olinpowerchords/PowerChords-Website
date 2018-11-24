@@ -14,7 +14,7 @@ def index():
 	return render_template("index.html", bgimage=True, news_item=news_item)
 
 @app.route("/repertoire")
-def repertoire():	
+def repertoire():
 	json_song_data = open("data/songs.json")
 	song_data = json.load(json_song_data)
 	json_song_data.close()
@@ -59,7 +59,7 @@ def news():
 		other_pages_to_show = range( max(1, cur_page-2), min(tot_num_pages+1, cur_page+3) )
 
 	news_items = news_data[ (cur_page-1)*num_items_per_page : cur_page*num_items_per_page ]
-	return render_template("news.html", news_items=news_items, cur_page=cur_page, 
+	return render_template("news.html", news_items=news_items, cur_page=cur_page,
 	                       tot_num_pages=tot_num_pages, other_pages_to_show=other_pages_to_show)
 
 @app.route("/contact")
