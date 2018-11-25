@@ -5,7 +5,7 @@
 		"bio": "<p>Eriel has been singing for several years, between doing musical theater in middle school and hobby-singing/songwriting independently throughout high school. This is Eriel’s second a cappella experience, the first being a small group in her summer camp, and she’s so happy to be doing it again! In addition to singing, she dabbles in piano, guitar, and ukulele. While Eriel’s truest love is music, other passions include math, writing, and spending time with her friends.</p>",
 		"class_number": "2022",
 		"major": "Undeclared",
-		"hometown": "Somewhere"
+		"hometown": "Somewhere, FL"
 	 },
 	 {
 		 "thumb": "nathan_weil.jpg",
@@ -36,24 +36,24 @@
 				"name": "Meg Ku",
 				"bio": "<p>Meg is overjoyed to be singing with PowerChords. When she was in grade school she starred as Jafar in Aladdin Jr., and since then she’s been an “honorary tenor”. In her free time she loves to fold origami, play tennis, and eat ice cream. She is always down for dim sum or escape rooms. Meg firmly believes in being happy, and hopes to make her friends smile daily.</p>",
 				"class_number": "2022",
-				"major": "Undeclared",
-				"hometown": "Somewhere"
+				"major": "Electrical and Computer Engineering",
+				"hometown": "Westborough, MA"
 		},
 		{
 			 "thumb": "annie_kroo.jpg",
 			 "name": "Annie Kroo",
 			 "bio": "<p>Annie has been singing for other people ever since middle school when she gave up her 12 year streak of playing the violin because she realized she really didn’t like the sound of violins. She is commonly berated for her love of country, folk, and pop music by her friends. More generally, Annie likes playing soccer, pontificating the structure of engineering education, and perusing electrical engineering primarily because she wants to be a wizard and thinks that controlling lightning bolts is pretty much magic.</p>",
 			 "class_number": "2020",
-			 "major": "Undeclared",
-			 "hometown": "Somewhere"
+			 "major": "Electrical and Computer Engineering",
+			 "hometown": "San Francisco, CA"
 	 },
 	 {
 			"thumb": "adam_selker.jpg",
 			"name": "Adam Selker",
 			"bio": "<p>Adam has grown up playing piano and saxophone, but Power Chords is his first foray into singing. Before, when without an instrument, he just whistled instead, to the annoyance of anyone in earshot. Apart from making music, Adam enjoys mountain biking, flying model aircraft, and yelling at computers.</p>",
 			"class_number": "2020",
-			"major": "Undeclared",
-			"hometown": "Somewhere"
+			"major": "Electrical and Computer Engineering",
+			"hometown": "Portland, OR"
 	},
 	{
 		"thumb": "colvin_chapman.jpg",
@@ -68,7 +68,7 @@
 		"name": "Linnea Laux",
 		"bio": "<p>Linnea dabbled in piano as a young child before settling on bass clarinet and playing for 9 years (with breaks for eating and sleeping). She accidentally joined chorus during her junior year of high school, fell in love with singing, and never looked back. In her spare time, she enjoys running, pickup sports, food, and reading.</p>",
 		"class_number": "2019",
-		"major": "Electrical and Computer Engineering",
+		"major": "Environmental Engineering",
 		"hometown": "Buffalo, NY"
 	 },
 	 {
@@ -106,9 +106,9 @@
 	{
 		"thumb": "lauren_gulland.jpg",
 		"name": "Lauren Gulland",
-		"bio": "<p>Lauren has been an instrumentalist all her life, with her primary and secondary instruments being euphonium and trombone, respectively. Being in PowerChords is a brand new experience for her, and that means she loves every moment that much more. Outside of music, Lauren is interested in mechanical design, biomimetics and biomechatronics, and robotics.   </p>",
+		"bio": "<p>Prior to joining PowerChords, Lauren played euphonium and trombone for a bunch of ensembles. Since joining PowerChords, well, she's been singing with a bunch of awesome people, learning a lot, and just generally having a blast! Outside of music, Lauren is interested in fluffy blankets, the ethical development and application of machine learning techniques, and cephalopods (not necessarily in order of importance).</p>",
 		"class_number": "2019",
-		"major": "Biomechanical Engineering",
+		"major": "Computational Robotics",
 		"hometown": "Manhattan Beach, CA"
 	}
 ]
