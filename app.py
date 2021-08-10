@@ -19,7 +19,7 @@ def repertoire():
 	json_song_data = open("data/songs.json")
 	song_data = json.load(json_song_data)
 	json_song_data.close()
- 	return render_template("repertoire.html", semesters=song_data)
+	return render_template("repertoire.html", semesters=song_data)
 
 @app.route("/current_members")
 def current_members():
@@ -30,7 +30,6 @@ def current_members():
 	json_leadership_data = open("data/leadership.json")
 	leadership_data = json.load(json_leadership_data)
 	json_leadership_data.close()
-
 	return render_template("current_members.html", current_members=current_members_data, leadership=leadership_data)
 
 @app.route("/alumni")
